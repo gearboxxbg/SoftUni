@@ -1,0 +1,11 @@
+C:\Users\Gearboxx\source\repos\WSR\WSR\obj\Debug\netcoreapp2.1\WSR.csprojAssemblyReference.cache
+C:\Users\Gearboxx\source\repos\WSR\WSR\obj\Debug\netcoreapp2.1\WSR.csproj.CoreCompileInputs.cache
+C:\Users\Gearboxx\source\repos\WSR\WSR\obj\Debug\netcoreapp2.1\WSR.AssemblyInfoInputs.cache
+C:\Users\Gearboxx\source\repos\WSR\WSR\obj\Debug\netcoreapp2.1\WSR.AssemblyInfo.cs
+C:\Users\Gearboxx\source\repos\WSR\WSR\bin\Debug\netcoreapp2.1\WSR.deps.json
+C:\Users\Gearboxx\source\repos\WSR\WSR\bin\Debug\netcoreapp2.1\WSR.runtimeconfig.json
+C:\Users\Gearboxx\source\repos\WSR\WSR\bin\Debug\netcoreapp2.1\WSR.runtimeconfig.dev.json
+C:\Users\Gearboxx\source\repos\WSR\WSR\bin\Debug\netcoreapp2.1\WSR.dll
+C:\Users\Gearboxx\source\repos\WSR\WSR\bin\Debug\netcoreapp2.1\WSR.pdb
+C:\Users\Gearboxx\source\repos\WSR\WSR\obj\Debug\netcoreapp2.1\WSR.dll
+C:\Users\Gearboxx\source\repos\WSR\WSR\obj\Debug\netcoreapp2.1\WSR.pdb
