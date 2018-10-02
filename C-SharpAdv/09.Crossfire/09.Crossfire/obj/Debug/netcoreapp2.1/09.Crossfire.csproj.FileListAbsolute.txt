@@ -1,0 +1,11 @@
+C:\Users\Gearboxx\source\repos\09.Crossfire\09.Crossfire\bin\Debug\netcoreapp2.1\09.Crossfire.deps.json
+C:\Users\Gearboxx\source\repos\09.Crossfire\09.Crossfire\bin\Debug\netcoreapp2.1\09.Crossfire.runtimeconfig.json
+C:\Users\Gearboxx\source\repos\09.Crossfire\09.Crossfire\bin\Debug\netcoreapp2.1\09.Crossfire.runtimeconfig.dev.json
+C:\Users\Gearboxx\source\repos\09.Crossfire\09.Crossfire\bin\Debug\netcoreapp2.1\09.Crossfire.dll
+C:\Users\Gearboxx\source\repos\09.Crossfire\09.Crossfire\bin\Debug\netcoreapp2.1\09.Crossfire.pdb
+C:\Users\Gearboxx\source\repos\09.Crossfire\09.Crossfire\obj\Debug\netcoreapp2.1\09.Crossfire.csprojAssemblyReference.cache
+C:\Users\Gearboxx\source\repos\09.Crossfire\09.Crossfire\obj\Debug\netcoreapp2.1\09.Crossfire.csproj.CoreCompileInputs.cache
+C:\Users\Gearboxx\source\repos\09.Crossfire\09.Crossfire\obj\Debug\netcoreapp2.1\09.Crossfire.AssemblyInfoInputs.cache
+C:\Users\Gearboxx\source\repos\09.Crossfire\09.Crossfire\obj\Debug\netcoreapp2.1\09.Crossfire.AssemblyInfo.cs
+C:\Users\Gearboxx\source\repos\09.Crossfire\09.Crossfire\obj\Debug\netcoreapp2.1\09.Crossfire.dll
+C:\Users\Gearboxx\source\repos\09.Crossfire\09.Crossfire\obj\Debug\netcoreapp2.1\09.Crossfire.pdb
