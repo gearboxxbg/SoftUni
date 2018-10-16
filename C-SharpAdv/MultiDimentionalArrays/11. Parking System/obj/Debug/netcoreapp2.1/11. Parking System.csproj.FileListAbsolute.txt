@@ -1,0 +1,11 @@
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\11. Parking System\bin\Debug\netcoreapp2.1\11. Parking System.deps.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\11. Parking System\bin\Debug\netcoreapp2.1\11. Parking System.runtimeconfig.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\11. Parking System\bin\Debug\netcoreapp2.1\11. Parking System.runtimeconfig.dev.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\11. Parking System\bin\Debug\netcoreapp2.1\11. Parking System.dll
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\11. Parking System\bin\Debug\netcoreapp2.1\11. Parking System.pdb
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\11. Parking System\obj\Debug\netcoreapp2.1\11. Parking System.csprojAssemblyReference.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\11. Parking System\obj\Debug\netcoreapp2.1\11. Parking System.csproj.CoreCompileInputs.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\11. Parking System\obj\Debug\netcoreapp2.1\11. Parking System.AssemblyInfoInputs.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\11. Parking System\obj\Debug\netcoreapp2.1\11. Parking System.AssemblyInfo.cs
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\11. Parking System\obj\Debug\netcoreapp2.1\11. Parking System.dll
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\11. Parking System\obj\Debug\netcoreapp2.1\11. Parking System.pdb

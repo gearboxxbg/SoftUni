@@ -1,0 +1,11 @@
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\05. Rubiks Matrix\bin\Debug\netcoreapp2.1\05. Rubiks Matrix.deps.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\05. Rubiks Matrix\bin\Debug\netcoreapp2.1\05. Rubiks Matrix.runtimeconfig.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\05. Rubiks Matrix\bin\Debug\netcoreapp2.1\05. Rubiks Matrix.runtimeconfig.dev.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\05. Rubiks Matrix\bin\Debug\netcoreapp2.1\05. Rubiks Matrix.dll
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\05. Rubiks Matrix\bin\Debug\netcoreapp2.1\05. Rubiks Matrix.pdb
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\05. Rubiks Matrix\obj\Debug\netcoreapp2.1\05. Rubiks Matrix.csprojAssemblyReference.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\05. Rubiks Matrix\obj\Debug\netcoreapp2.1\05. Rubiks Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\05. Rubiks Matrix\obj\Debug\netcoreapp2.1\05. Rubiks Matrix.AssemblyInfoInputs.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\05. Rubiks Matrix\obj\Debug\netcoreapp2.1\05. Rubiks Matrix.AssemblyInfo.cs
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\05. Rubiks Matrix\obj\Debug\netcoreapp2.1\05. Rubiks Matrix.dll
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\05. Rubiks Matrix\obj\Debug\netcoreapp2.1\05. Rubiks Matrix.pdb

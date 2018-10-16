@@ -1,0 +1,11 @@
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\01.Matrix of Palindromes\bin\Debug\netcoreapp2.1\01.Matrix of Palindromes.deps.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\01.Matrix of Palindromes\bin\Debug\netcoreapp2.1\01.Matrix of Palindromes.runtimeconfig.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\01.Matrix of Palindromes\bin\Debug\netcoreapp2.1\01.Matrix of Palindromes.runtimeconfig.dev.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\01.Matrix of Palindromes\bin\Debug\netcoreapp2.1\01.Matrix of Palindromes.dll
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\01.Matrix of Palindromes\bin\Debug\netcoreapp2.1\01.Matrix of Palindromes.pdb
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\01.Matrix of Palindromes\obj\Debug\netcoreapp2.1\01.Matrix of Palindromes.csprojAssemblyReference.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\01.Matrix of Palindromes\obj\Debug\netcoreapp2.1\01.Matrix of Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\01.Matrix of Palindromes\obj\Debug\netcoreapp2.1\01.Matrix of Palindromes.AssemblyInfoInputs.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\01.Matrix of Palindromes\obj\Debug\netcoreapp2.1\01.Matrix of Palindromes.AssemblyInfo.cs
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\01.Matrix of Palindromes\obj\Debug\netcoreapp2.1\01.Matrix of Palindromes.dll
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\01.Matrix of Palindromes\obj\Debug\netcoreapp2.1\01.Matrix of Palindromes.pdb

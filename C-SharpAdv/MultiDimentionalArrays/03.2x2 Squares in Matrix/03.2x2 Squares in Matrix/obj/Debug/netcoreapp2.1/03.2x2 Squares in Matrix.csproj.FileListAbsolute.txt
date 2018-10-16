@@ -1,0 +1,10 @@
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\03.2x2 Squares in Matrix\03.2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\03.2x2 Squares in Matrix.deps.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\03.2x2 Squares in Matrix\03.2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\03.2x2 Squares in Matrix.runtimeconfig.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\03.2x2 Squares in Matrix\03.2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\03.2x2 Squares in Matrix.runtimeconfig.dev.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\03.2x2 Squares in Matrix\03.2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\03.2x2 Squares in Matrix.dll
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\03.2x2 Squares in Matrix\03.2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\03.2x2 Squares in Matrix.pdb
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\03.2x2 Squares in Matrix\03.2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\03.2x2 Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\03.2x2 Squares in Matrix\03.2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\03.2x2 Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\03.2x2 Squares in Matrix\03.2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\03.2x2 Squares in Matrix.AssemblyInfo.cs
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\03.2x2 Squares in Matrix\03.2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\03.2x2 Squares in Matrix.dll
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\03.2x2 Squares in Matrix\03.2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\03.2x2 Squares in Matrix.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\06.Target Practice\bin\Debug\netcoreapp2.1\06.Target Practice.deps.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\06.Target Practice\bin\Debug\netcoreapp2.1\06.Target Practice.runtimeconfig.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\06.Target Practice\bin\Debug\netcoreapp2.1\06.Target Practice.runtimeconfig.dev.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\06.Target Practice\bin\Debug\netcoreapp2.1\06.Target Practice.dll
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\06.Target Practice\bin\Debug\netcoreapp2.1\06.Target Practice.pdb
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\06.Target Practice\obj\Debug\netcoreapp2.1\06.Target Practice.csprojAssemblyReference.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\06.Target Practice\obj\Debug\netcoreapp2.1\06.Target Practice.csproj.CoreCompileInputs.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\06.Target Practice\obj\Debug\netcoreapp2.1\06.Target Practice.AssemblyInfoInputs.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\06.Target Practice\obj\Debug\netcoreapp2.1\06.Target Practice.AssemblyInfo.cs
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\06.Target Practice\obj\Debug\netcoreapp2.1\06.Target Practice.dll
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\MultiDimentionalArrays\06.Target Practice\obj\Debug\netcoreapp2.1\06.Target Practice.pdb
