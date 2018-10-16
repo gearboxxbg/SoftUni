@@ -52,5 +52,5 @@ namespace _09.HTTP_Server
 				client.GetStream().Dispose();
 			}
 		}
-	}	
+	}
 }
