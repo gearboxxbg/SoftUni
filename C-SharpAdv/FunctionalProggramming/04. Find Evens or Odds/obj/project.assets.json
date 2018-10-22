@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
+      "projectUniqueName": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
       "projectName": "04. Find Evens or Odds",
-      "projectPath": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
+      "projectPath": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
       "packagesPath": "C:\\Users\\Gearboxx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\04. Find Evens or Odds\\obj\\",
+      "outputPath": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\04. Find Evens or Odds\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\06. Reverse And Exclude\\06. Reverse And Exclude.csproj",
+      "projectUniqueName": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\06. Reverse And Exclude\\06. Reverse And Exclude.csproj",
       "projectName": "06. Reverse And Exclude",
-      "projectPath": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\06. Reverse And Exclude\\06. Reverse And Exclude.csproj",
+      "projectPath": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\06. Reverse And Exclude\\06. Reverse And Exclude.csproj",
       "packagesPath": "C:\\Users\\Gearboxx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\06. Reverse And Exclude\\obj\\",
+      "outputPath": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\06. Reverse And Exclude\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

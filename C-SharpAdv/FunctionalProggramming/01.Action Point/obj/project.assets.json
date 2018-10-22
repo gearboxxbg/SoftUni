@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\01.Action Point\\01.Action Point.csproj",
+      "projectUniqueName": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\01.Action Point\\01.Action Point.csproj",
       "projectName": "01.Action Point",
-      "projectPath": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\01.Action Point\\01.Action Point.csproj",
+      "projectPath": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\01.Action Point\\01.Action Point.csproj",
       "packagesPath": "C:\\Users\\Gearboxx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\01.Action Point\\obj\\",
+      "outputPath": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\01.Action Point\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

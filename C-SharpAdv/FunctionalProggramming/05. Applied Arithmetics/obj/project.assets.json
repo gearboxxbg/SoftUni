@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
+      "projectUniqueName": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
       "projectName": "05. Applied Arithmetics",
-      "projectPath": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
+      "projectPath": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
       "packagesPath": "C:\\Users\\Gearboxx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\05. Applied Arithmetics\\obj\\",
+      "outputPath": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\05. Applied Arithmetics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

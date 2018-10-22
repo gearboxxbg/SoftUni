@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\03. Custom Min Function\\03. Custom Min Function.csproj",
+      "projectUniqueName": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\03. Custom Min Function\\03. Custom Min Function.csproj",
       "projectName": "03. Custom Min Function",
-      "projectPath": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\03. Custom Min Function\\03. Custom Min Function.csproj",
+      "projectPath": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\03. Custom Min Function\\03. Custom Min Function.csproj",
       "packagesPath": "C:\\Users\\Gearboxx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gearboxx\\source\\repos\\FunctionalProgramming\\03. Custom Min Function\\obj\\",
+      "outputPath": "C:\\Users\\Gearboxx\\Desktop\\repository\\SoftUni\\C-SharpAdv\\FunctionalProggramming\\03. Custom Min Function\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
