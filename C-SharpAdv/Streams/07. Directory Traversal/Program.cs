@@ -34,7 +34,7 @@ namespace _07.Directory_Travelser
 				.ToDictionary(x => x.Key, y => y.Value);
 
 			//string desktop = @"%Gearboxx%\Desktop\";
-			//string desktop = @"D:\CSharpAdvance\C-SharpAdvanced\Streams\07.Directory Travelser";
+			//string desktop = @"C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\Streams\07. Directory Traversal";
 			string desktop = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 			string fullFileName = desktop + "report.txt";
 

@@ -1,0 +1,11 @@
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\Streams\09. HTTP Server\bin\Debug\netcoreapp2.1\09. HTTP Server.deps.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\Streams\09. HTTP Server\bin\Debug\netcoreapp2.1\09. HTTP Server.runtimeconfig.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\Streams\09. HTTP Server\bin\Debug\netcoreapp2.1\09. HTTP Server.runtimeconfig.dev.json
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\Streams\09. HTTP Server\bin\Debug\netcoreapp2.1\09. HTTP Server.dll
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\Streams\09. HTTP Server\bin\Debug\netcoreapp2.1\09. HTTP Server.pdb
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\Streams\09. HTTP Server\obj\Debug\netcoreapp2.1\09. HTTP Server.csprojAssemblyReference.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\Streams\09. HTTP Server\obj\Debug\netcoreapp2.1\09. HTTP Server.csproj.CoreCompileInputs.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\Streams\09. HTTP Server\obj\Debug\netcoreapp2.1\09. HTTP Server.AssemblyInfoInputs.cache
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\Streams\09. HTTP Server\obj\Debug\netcoreapp2.1\09. HTTP Server.AssemblyInfo.cs
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\Streams\09. HTTP Server\obj\Debug\netcoreapp2.1\09. HTTP Server.dll
+C:\Users\Gearboxx\Desktop\repository\SoftUni\C-SharpAdv\Streams\09. HTTP Server\obj\Debug\netcoreapp2.1\09. HTTP Server.pdb
