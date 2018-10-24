@@ -1,2 +1,0 @@
-.sln
--- CSharpAdvance-Stack_Queues.sln - 5.717kb
