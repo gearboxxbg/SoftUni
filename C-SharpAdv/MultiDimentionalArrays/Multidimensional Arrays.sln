@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{F1FFC023-1BE9-4D0B-B1FB-B359D09B8A66}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MDA", "MDA", "{F1FFC023-1BE9-4D0B-B1FB-B359D09B8A66}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Matrix of Palindromes", "01.Matrix of Palindromes\01.Matrix of Palindromes.csproj", "{4EEC3B73-BD4E-4335-97FD-16EF144051DD}"
 EndProject
@@ -27,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.String Matrix Rotation",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.Crossfire", "09.Crossfire\09.Crossfire.csproj", "{5F00F7BE-EF5E-4994-BAB1-D45404FDB8BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. 2x2 Squares In Matrix", "03. 2x2 Squares In Matrix\03. 2x2 Squares In Matrix.csproj", "{21436295-0D7A-483A-8111-EE24AB70C622}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. 2x2 Squares In Matrix", "03. 2x2 Squares In Matrix\03. 2x2 Squares In Matrix.csproj", "{21436295-0D7A-483A-8111-EE24AB70C622}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
